@@ -1,0 +1,11 @@
+
+.game-box {
+  position: relative;
+  width: 800px;
+  height: 600px;
+  margin: 0 auto; /* throw it in the center...*/
+  border: 5px solid black; 
+  border-radius: 10px;
+  background: white;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}

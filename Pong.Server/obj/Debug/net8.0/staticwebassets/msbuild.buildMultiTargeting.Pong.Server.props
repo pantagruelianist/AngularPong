@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Pong.Server.props" />
+</Project>

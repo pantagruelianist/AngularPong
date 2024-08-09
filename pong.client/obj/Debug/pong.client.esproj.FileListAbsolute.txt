@@ -1,0 +1,1 @@
+C:\Users\alexa\OneDrive\Desktop\MyAngularProjects\Pong\pong.client\obj\Debug\pong.client.esproj.CoreCompileInputs.cache
